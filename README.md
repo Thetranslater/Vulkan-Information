@@ -10,4 +10,9 @@ You just include the header in you code and use it like this
 VkGraphicsPipelineCreateInfo createInfo = VulkanInfo::aboutVkGraphicsPipelineCreateInfo();
 ```
 
-The basic of the header only describe most structures in vulkan 1.0 for now
+The basic of the header only describe most structures in vulkan 1.0 for now.
+
+---
+
+You may find some strange identation problems in the comments.I feel sorry about that.You can manually edit the layout of the comment to make it look better.
+
